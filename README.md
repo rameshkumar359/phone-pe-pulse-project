@@ -27,3 +27,7 @@ into a format suitable for analysis and visualization.
 3. Database insertion: Use the "mysql-connector-python" library in Python to
 connect to a MySQL database and insert the transformed data using SQL
 commands.
+# Preview
+![image](https://github.com/rameshkumar359/phone-pe-pulse-project/assets/96288285/8359a47a-ab18-40cc-a55b-de79b22c7185)
+![Screenshot (27)](https://github.com/rameshkumar359/phone-pe-pulse-project/assets/96288285/49776c4f-dafc-4af9-8da2-ec0782b1345d)
+
