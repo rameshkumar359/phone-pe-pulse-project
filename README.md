@@ -31,3 +31,29 @@ commands.
 ![image](https://github.com/rameshkumar359/phone-pe-pulse-project/assets/96288285/8359a47a-ab18-40cc-a55b-de79b22c7185)
 ![Screenshot (27)](https://github.com/rameshkumar359/phone-pe-pulse-project/assets/96288285/49776c4f-dafc-4af9-8da2-ec0782b1345d)
 
+4. Dashboard creation: Use the Streamlit and Plotly libraries in Python to create
+an interactive and visually appealing dashboard. Plotly's built-in geo map
+functions can be used to display the data on a map and Streamlit can be used
+to create a user-friendly interface with multiple dropdown options for users to
+select different facts and figures to display.
+5. Data retrieval: Use the "mysql-connector-python" library to connect to the
+MySQL database and fetch the data into a Pandas dataframe. Use the data in
+the dataframe to update the dashboard dynamically.
+6. Deployment: Ensure the solution is secure, efficient, and user-friendly. Test
+the solution thoroughly and deploy the dashboard publicly, making it
+accessible to users.
+
+The result of this project will be a live geo visualization dashboard that displays
+information and insights from the Phonepe pulse Github repository in an interactive
+and visually appealing manner.
+
+Users will be able to access the dashboard from a web browser and easily navigate
+the different visualizations and facts and figures displayed. The dashboard will
+provide valuable insights and information about the data in the Phonepe pulse
+
+Github repository, making it a valuable tool for data analysis and decision-making.
+Overall, the result of this project will be a comprehensive and user-friendly solution
+for extracting, transforming, and visualizing data from the Phonepe pulse Github
+repository.
+
+![Screenshot (28)](https://github.com/rameshkumar359/phone-pe-pulse-project/assets/96288285/f73a34b7-4c0b-40d6-8225-76d6f71661ca)
