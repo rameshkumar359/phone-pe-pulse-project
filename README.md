@@ -57,3 +57,6 @@ for extracting, transforming, and visualizing data from the Phonepe pulse Github
 repository.
 
 ![Screenshot (28)](https://github.com/rameshkumar359/phone-pe-pulse-project/assets/96288285/f73a34b7-4c0b-40d6-8225-76d6f71661ca)
+
+Demo Link :https://www.youtube.com/watch?v=WHHEVY4PRZU&t=838s
+Linked Link:https://www.linkedin.com/in/ramesh-kumar-k-562891225/
